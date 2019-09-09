@@ -29,7 +29,7 @@ While polynomial regression can improve the accuracy of your models, they also e
 
 ### Ridge and Lasso Regression
 
-Next up, you'll learn about Ridge and Lasso regressions - two techniques that penalize more complex models to reducing overfitting.
+Next up, you'll learn about Ridge and Lasso regressions - two techniques that penalize more complex models to reduce overfitting.
 
 ### AIC and BIC
 
