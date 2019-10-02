@@ -21,7 +21,7 @@ You'll start by introducing the concept of interactions - where two or more vari
 
 ### Polynomial Regression
 
-You'll then implement higher order equations for solving regressions. A linear expression can be described by an equation in the form of y = mx + b. A polynomial expression brings in higher powers of x (squared, cubed, etc). By allowing for equations containing higher order terms it's quite possible that you'll be able to better fit a curve to your data set, better predicting future values.
+You'll then implement higher-order equations for solving regressions. A linear expression can be described by an equation in the form of y = mx + b. A polynomial expression brings in higher powers of x (squared, cubed, etc). By allowing for equations containing higher-order terms you may be able to better fit a curve to your data set, better predicting future values.
 
 ### Bias-Variance Tradeoff
 
